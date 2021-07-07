@@ -1,5 +1,4 @@
-
-console.log()
+console.log('Pokedex! Consumiendo de la API de Pokemon https://pokeapi.co/ a través de AXIOS')
 
 // Evento que carga primero el HTML
 
